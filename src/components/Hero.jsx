@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../style";
 import portrait from "../assets/elsa-noblet-5KD5PmZEfcg-unsplash.jpg";
-import circleImage from "../assets/charlesdeluvio-kVg2DQTAK7c-unsplash.jpg"; // Assuming you have a circular image to use
+import circleImage from "../assets/myImage.webp"; // Assuming you have a circular image to use
 import { motion } from "framer-motion";
 import { FaUncharted } from "react-icons/fa";
 import { FaCode } from "react-icons/fa";
