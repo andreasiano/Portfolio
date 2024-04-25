@@ -12,7 +12,7 @@ module.exports = {
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],
-        dmserif: ["Dm Serif Display, 'sans-serif"]
+        dmserif: ["Dm Serif Display", "sans-serif"] // Fixed typo here
       },
     },
     screens: {
