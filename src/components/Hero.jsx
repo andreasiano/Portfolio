@@ -66,7 +66,7 @@ const Hero = () => {
       </div>
       <div></div>
       <div
-        className={`flex-2 flex ${styles.flexCenter} md:my-0 my-10 relative`}
+        className={`flex-2 flex ${styles.flexCenter} md:my-0  relative`}
       >
         {/* Image Container with Frame Outside */}
         <div className="relative overflow-hidden rounded-xl w-full lg:w-auto">
