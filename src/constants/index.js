@@ -1,9 +1,7 @@
-import img1 from '../assets/Blog.jpg'
-import img2 from '../assets/travelApp.png'
-import img3 from '../assets/Wallet.png'
-import img4 from '../assets/ViviLittlle.png'
-import img5 from '../assets/Gaming App.png'
-import img6 from '../assets/Bailey.jpg'
+import img1 from '../assets/kitsune.png'
+import img2 from '../assets/bailey.png'
+import img3 from '../assets/Travel vibes.png'
+import img4 from '../assets/Sorrentino.png'
 import { BsFillArrowRightCircleFill } from 'react-icons/bs'
 
 export const navLinks = [
@@ -20,64 +18,44 @@ export const navLinks = [
 export const imgData = [
          {
            id: 1,
-           title: "East Asian Blog",
+           title: "Kitsune's Veil",
            img: img1,
            description:
-             "This is a personal project based on my passion for East Asian Cultures. A Blog built with React and Bootstrap.",
-           button: "See Project",
-           link: "https://east-asian-blog.vercel.app/",
+             "Kitsune's Veil is a personal project born from a deep-seated passion for East Asian cultures.",
+           button: "See Case Study",
+           link: "https://www.figma.com/file/K6fpi5nE9pmCCJ1qjWzi0V/Kitsune's-Veil?type=design&node-id=552%3A5&mode=design&t=U6K8DK10f4iVwOgy-1",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
            id: 2,
-           title: "Travel App",
+           title: "Bailey World",
            img: img2,
            description:
-             "A Travel Mobile App Prototype focused on simplifying travel planning.",
-           button: "View Case Study",
+             "Bailey World is a digital haven meticulously curated for lovers of science fiction literature.",
+           button: "See Web App",
            link:
-             "https://www.figma.com/file/bohhBEUAqAzkZO6bV7XcxC/Travel-Mobile-App?type=design&node-id=512-19&mode=design&t=ylCfF6WYazFErRMf-0",
+             "https://bailey-world.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
            id: 3,
-           title: "Wallet App",
+           title: "Travel Vibes",
            img: img3,
            description:
-             "A Wallet Mobile App designed to enhance customers involvement with their expenses.",
+             "Travel Vibes is a mobile companion designed to ignite wanderlust and fuel adventures",
            button: "View Case Study",
            link:
-             "https://www.figma.com/file/lz1iEHveQYDxKmOdyb2yH3/Wallet-mobile-app?type=design&node-id=271-7&mode=design&t=ylCfF6WYazFErRMf-0",
+             "https://www.figma.com/file/bohhBEUAqAzkZO6bV7XcxC/Travel-Mobile-App?type=design&node-id=512%3A19&mode=design&t=pkqywCcFrmQFpAXm-1",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
            id: 4,
-           title: "Vivi Littlegreen",
+           title: "Photography Portfolio",
            img: img4,
            description:
-             "This project is a beauty-care wordpress website.",
+             "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
            button: "See Project",
-           link: "https://dev-vivilittlegreen.pantheonsite.io/",
-           icon: <BsFillArrowRightCircleFill />,
-         },
-         {
-           id: 5,
-           title: "Gaming App",
-           img: img5,
-           description:
-             "This is a desktop gaming platform. I took inspiration from Steam and Epic Games",
-           button: "View Prototype",
-           link: "https://www.figma.com/file/eyj3oXiTlGgjXyoN5vP95w/Gaming-Desktop-App?type=design&mode=design&t=3OrTSj7xQLP14xlF-0",
-           icon: <BsFillArrowRightCircleFill />,
-         },
-         {
-           id: 6,
-           title: "Bailey World",
-           img: img6,
-           description:
-             "An E-commerce Project I am currently working on, built with minimal design practices",
-           button: "View Project",
-           link: "https://bailey-world.vercel.app/",
+           link: "https://sorrentinoportfolio.netlify.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
        ];
