@@ -21,7 +21,7 @@ export default function ImageCards() {
       {imgData.map((card, index) => (
         <a key={card.id} href={card.link}>
           <motion.div
-            className="shadow-xl font-dmdisplay relative overflow-hidden rounded-xl group"
+            className="shadow-xl font-dmdisplay border-opacity-25 relative overflow-hidden border-4 border-gray-700 rounded-xl group"
             key={index}
             variants={animationVariants}
             initial='initial'

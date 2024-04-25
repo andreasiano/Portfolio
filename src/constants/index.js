@@ -43,7 +43,7 @@ export const imgData = [
            img: img3,
            description:
              "Travel Vibes is a mobile companion designed to ignite wanderlust and fuel adventures",
-           button: "View Case Study",
+           button: "See Case Study",
            link:
              "https://www.figma.com/file/bohhBEUAqAzkZO6bV7XcxC/Travel-Mobile-App?type=design&node-id=512%3A19&mode=design&t=pkqywCcFrmQFpAXm-1",
            icon: <BsFillArrowRightCircleFill />,
