@@ -46,7 +46,7 @@ const Hero = () => {
           delving deep into understanding user needs and behaviors.
         </p>
         <div className="lg:flex mt-5">
-          <div className="flex xs:mb-10 items-center">
+          <div className="flex xxs:mb-5 items-center">
             <div className="rounded-full border-2 border-white flex items-center justify-center mr-4">
               <FaUncharted className="text-white mx-1.5 my-1.5 text-xl" />
             </div>
@@ -54,7 +54,7 @@ const Hero = () => {
               Passionate about digital painting, coding and 3D
             </p>
           </div>
-          <div className="flex xs:mb-5 items-center">
+          <div className="flex xxs:mb-5 items-center">
             <div className="rounded-full border-2 border-white flex items-center justify-center mr-4">
               <FaCode className="text-white my-1.5 mx-1.5 text-xl" />
             </div>
