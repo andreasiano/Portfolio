@@ -38,12 +38,9 @@ const Hero = () => {
           </div>
         </div>
         <p
-          className={`${styles.paragraph} font-light opacity-50 text-white max-w-[480px] sm:text-2xl xxs:text-xl lg:text-[16px] mt-5`}
+          className={`${styles.paragraph} font-light opacity-50 text-white max-w-[480px] sm:text-2xl xxs:text-xl lg:text-[15px] mt-5`}
         >
-          From crafting humble startups to influencing software used by
-          billions, I've found joy in designing experiences that resonate with
-          people. At Intent, I honed my skills in visual design and UX research,
-          delving deep into understanding user needs and behaviors.
+          With three years of hands-on experience as a front-end developer, my passion lies in crafting intuitive user interfaces and seamless user experiences that elevate applications to new heights of user-friendliness. I thrive on the dynamic interplay between UI/UX design principles and cutting-edge development techniques, driven by a relentless pursuit of innovation and excellence.
         </p>
         <div className="lg:flex mt-5">
           <div className="flex xxs:mb-5 items-center">
@@ -51,7 +48,7 @@ const Hero = () => {
               <FaUncharted className="text-white mx-1.5 my-1.5 text-xl" />
             </div>
             <p className="text-white text-sm">
-              Passionate about digital painting, coding and 3D
+              Passionate about digital painting and 3D art
             </p>
           </div>
           <div className="flex xxs:mb-5 items-center">
@@ -59,7 +56,7 @@ const Hero = () => {
               <FaCode className="text-white my-1.5 mx-1.5 text-xl" />
             </div>
             <p className="text-white text-sm">
-              Passionate about digital painting, coding and 3D
+              Coding enthusiast (ReactJs, NextJs, Python)
             </p>
           </div>
         </div>
