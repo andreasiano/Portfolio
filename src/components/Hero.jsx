@@ -40,7 +40,7 @@ const Hero = () => {
         <p
           className={`${styles.paragraph} font-light opacity-50 text-white max-w-[480px] sm:text-2xl xxs:text-xl lg:text-[15px] mt-5`}
         >
-          With three years of hands-on experience as a front-end developer, my passion lies in crafting intuitive user interfaces and seamless user experiences that elevate applications to new heights of user-friendliness. I thrive on the dynamic interplay between UI/UX design principles and cutting-edge development techniques, driven by a relentless pursuit of innovation and excellence.
+          With three years of hands-on experience as a Product designer, my passion lies in crafting intuitive user interfaces and seamless user experiences that elevate applications to new heights of user-friendliness. I thrive on the dynamic interplay between UI/UX design principles and cutting-edge development techniques, driven by a relentless pursuit of innovation and excellence.
         </p>
         <div className="lg:flex mt-5">
           <div className="flex xxs:mb-5 items-center">
