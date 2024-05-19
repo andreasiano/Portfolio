@@ -57,7 +57,7 @@ export const imgData = [
            description:
              "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
            button: "See Project",
-           link: "https://sorrentinoportfolio.netlify.app/",
+           link: "https://crif.com/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
@@ -67,7 +67,7 @@ export const imgData = [
            description:
              "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
            button: "See Project",
-           link: "https://sorrentinoportfolio.netlify.app/",
+           link: "https://skeam-app.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
@@ -77,7 +77,7 @@ export const imgData = [
            description:
              "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
            button: "See Project",
-           link: "https://sorrentinoportfolio.netlify.app/",
+           link: "https://www.st.com/content/st_com/en.html",
            icon: <BsFillArrowRightCircleFill />,
          },
        ];
