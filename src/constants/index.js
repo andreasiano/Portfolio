@@ -1,7 +1,9 @@
 import img1 from '../assets/kitsune.png'
 import img2 from '../assets/bailey.png'
 import img3 from '../assets/Travel vibes.png'
-import img4 from '../assets/Sorrentino.png'
+import img4 from '../assets/CRIF.png'
+import img5 from '../assets/Game Hub.png'
+import img6 from '../assets/ST.png'
 import { BsFillArrowRightCircleFill } from 'react-icons/bs'
 
 export const navLinks = [
@@ -50,8 +52,28 @@ export const imgData = [
          },
          {
            id: 4,
-           title: "Photography Portfolio",
+           title: "Skeam Game Hub",
            img: img4,
+           description:
+             "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
+           button: "See Project",
+           link: "https://sorrentinoportfolio.netlify.app/",
+           icon: <BsFillArrowRightCircleFill />,
+         },
+         {
+           id: 5,
+           title: "CRIF Portal",
+           img: img5,
+           description:
+             "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
+           button: "See Project",
+           link: "https://sorrentinoportfolio.netlify.app/",
+           icon: <BsFillArrowRightCircleFill />,
+         },
+         {
+           id: 6,
+           title: "ST Web Portal",
+           img: img6,
            description:
              "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
            button: "See Project",
