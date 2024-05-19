@@ -41,6 +41,16 @@ export const imgData = [
          },
          {
            id: 3,
+           title: "CRIF Portal",
+           img: img4,
+           description:
+             "CRIF is a global company dedicated to providing advanced credit information, analytics, and decision solutions.",
+           button: "See Project",
+           link: "https://crif.com/",
+           icon: <BsFillArrowRightCircleFill />,
+         },
+         {
+           id: 4,
            title: "Travel Vibes",
            img: img3,
            description:
@@ -51,33 +61,23 @@ export const imgData = [
            icon: <BsFillArrowRightCircleFill />,
          },
          {
-           id: 4,
-           title: "CRIF Portal",
-           img: img4,
-           description:
-             "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
-           button: "See Project",
-           link: "https://crif.com/",
-           icon: <BsFillArrowRightCircleFill />,
-         },
-         {
            id: 5,
-           title: "Skeam Game Hub",
-           img: img5,
+           title: "ST Web Portal",
+           img: img6,
            description:
-             "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
+             "STMicroelectronics is a leading semiconductor company dedicated to advancing technology and innovation.",
            button: "See Project",
-           link: "https://skeam-app.vercel.app/",
+           link: "https://www.st.com/content/st_com/en.html",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
            id: 6,
-           title: "ST Web Portal",
-           img: img6,
+           title: "Skeam Game Hub",
+           img: img5,
            description:
-             "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
-           button: "See Project",
-           link: "https://www.st.com/content/st_com/en.html",
+             "Skeam GameHub is an immersive platform meticulously designed to showcase a diverse array of games. ",
+           button: "See Web App",
+           link: "https://skeam-app.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
        ];
