@@ -52,7 +52,7 @@ export const imgData = [
          },
          {
            id: 4,
-           title: "Skeam Game Hub",
+           title: "CRIF Portal",
            img: img4,
            description:
              "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
@@ -62,7 +62,7 @@ export const imgData = [
          },
          {
            id: 5,
-           title: "CRIF Portal",
+           title: "Skeam Game Hub",
            img: img5,
            description:
              "The Photography Showcase is a digital gallery meticulously crafted to showcase the beauty and artistry of visual storytelling",
