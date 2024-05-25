@@ -33,7 +33,7 @@ export const imgData = [
            title: "Bailey World",
            img: img2,
            description:
-             "Bailey World is a digital haven meticulously curated for lovers of science fiction literature.",
+             "Bailey World is a ReactJs Vite Web Application built with Context API Provider.",
            button: "See Web App",
            link:
              "https://bailey-world.vercel.app/",
@@ -44,7 +44,7 @@ export const imgData = [
            title: "CRIF Portal",
            img: img4,
            description:
-             "CRIF is a global company dedicated to providing advanced credit information, analytics, and decision solutions.",
+             "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital product.",
            button: "See Project",
            link: "https://crif.com/",
            icon: <BsFillArrowRightCircleFill />,
@@ -65,7 +65,7 @@ export const imgData = [
            title: "ST Web Portal",
            img: img6,
            description:
-             "STMicroelectronics is a leading semiconductor company dedicated to advancing technology and innovation.",
+             "ST Microeletronics is a global company specialized on semiconductors, I helped them build their web portal by using React and Redux..",
            button: "See Project",
            link: "https://www.st.com/content/st_com/en.html",
            icon: <BsFillArrowRightCircleFill />,
@@ -75,7 +75,7 @@ export const imgData = [
            title: "Skeam Game Hub",
            img: img5,
            description:
-             "Skeam GameHub is an immersive platform meticulously designed to showcase a diverse array of games. ",
+             "Skeam GameHub is an ReactJs web app getting its data from the RAWG API. ",
            button: "See Web App",
            link: "https://skeam-app.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
