@@ -44,7 +44,7 @@ export const imgData = [
            title: "CRIF Portal",
            img: img4,
            description:
-             "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital product.",
+             "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital product...",
            button: "See Project",
            link: "https://crif.com/",
            icon: <BsFillArrowRightCircleFill />,
@@ -75,7 +75,7 @@ export const imgData = [
            title: "Skeam Game Hub",
            img: img5,
            description:
-             "Skeam GameHub is an ReactJs web app getting its data from the RAWG API. ",
+             "Skeam GameHub is an ReactJs Web App that gets its data from the RAWG API. ",
            button: "See Web App",
            link: "https://skeam-app.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
