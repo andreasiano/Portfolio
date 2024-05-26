@@ -44,7 +44,7 @@ export const imgData = [
            title: "CRIF Portal",
            img: img4,
            description:
-             "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital product...",
+             "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital products...",
            button: "See Project",
            link: "https://crif.com/",
            icon: <BsFillArrowRightCircleFill />,
@@ -65,7 +65,7 @@ export const imgData = [
            title: "ST Web Portal",
            img: img6,
            description:
-             "ST Microeletronics is a global company specialized on semiconductors, I helped them build their web portal by using React and Redux..",
+             "ST Microeletronics is a global company specialized on semiconductors, I helped them build their web portal by using ReactJs and Redux..",
            button: "See Project",
            link: "https://www.st.com/content/st_com/en.html",
            icon: <BsFillArrowRightCircleFill />,
@@ -75,7 +75,7 @@ export const imgData = [
            title: "Skeam Game Hub",
            img: img5,
            description:
-             "Skeam GameHub is an ReactJs Web App that gets its data from the RAWG API. ",
+             "Skeam GameHub is an ReactJs Web Application that gets its data from the RAWG API. ",
            button: "See Web App",
            link: "https://skeam-app.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
