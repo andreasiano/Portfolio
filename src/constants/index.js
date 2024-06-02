@@ -1,6 +1,6 @@
-import img1 from '../assets/kitsune.png'
+import img1 from '../assets/Finance Tracker.png'
 import img2 from '../assets/bailey.png'
-import img3 from '../assets/Travel vibes.png'
+import img3 from '../assets/shopping_cart.png'
 import img4 from '../assets/CRIF.png'
 import img5 from '../assets/Game Hub.png'
 import img6 from '../assets/ST.png'
@@ -20,12 +20,12 @@ export const navLinks = [
 export const imgData = [
          {
            id: 1,
-           title: "Kitsune's Veil",
+           title: "Context API Finance Tracker",
            img: img1,
            description:
-             "Kitsune's Veil is a personal project born from a deep-seated passion for East Asian cultures.",
-           button: "See Case Study",
-           link: "https://www.figma.com/file/K6fpi5nE9pmCCJ1qjWzi0V/Kitsune's-Veil?type=design&node-id=552%3A5&mode=design&t=U6K8DK10f4iVwOgy-1",
+             "A Context API React App to track expenses.",
+           button: "See Project",
+           link: "https://finance-tracker-brown.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
@@ -45,19 +45,19 @@ export const imgData = [
            img: img4,
            description:
              "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital products...",
-           button: "See Project",
+           button: "See Web Portal",
            link: "https://crif.com/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
            id: 4,
-           title: "Travel Vibes",
+           title: "Redux Toolkit Project",
            img: img3,
            description:
-             "Travel Vibes is a mobile companion designed to ignite wanderlust and fuel adventures",
-           button: "See Case Study",
+             "A Redux Toolkit shopping Cart with various functionalities ",
+           button: "See Project",
            link:
-             "https://www.figma.com/file/bohhBEUAqAzkZO6bV7XcxC/Travel-Mobile-App?type=design&node-id=512%3A19&mode=design&t=pkqywCcFrmQFpAXm-1",
+             "https://redux-shopping-cart-wine-five.vercel.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
@@ -66,7 +66,7 @@ export const imgData = [
            img: img6,
            description:
              "ST Microeletronics is a global company specialized on semiconductors, I helped them build their web portal by using ReactJs and Redux..",
-           button: "See Project",
+           button: "See Web Portal",
            link: "https://www.st.com/content/st_com/en.html",
            icon: <BsFillArrowRightCircleFill />,
          },
