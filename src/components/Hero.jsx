@@ -48,7 +48,7 @@ const Hero = () => {
               <FaUncharted className="text-white mx-1.5 my-1.5 text-xl" />
             </div>
             <p className="text-white text-sm">
-              Passionate about digital painting and Game Dev
+              Passionate about digital painting and gaming
             </p>
           </div>
           <div className="flex xxs:mb-5 items-center">
