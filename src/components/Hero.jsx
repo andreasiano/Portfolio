@@ -48,7 +48,7 @@ const Hero = () => {
               <FaUncharted className="text-white mx-1.5 my-1.5 text-xl" />
             </div>
             <p className="text-white text-sm">
-              Passionate about digital painting and 3D art
+              Passionate about digital painting and Game Dev
             </p>
           </div>
           <div className="flex xxs:mb-5 items-center">
@@ -56,7 +56,7 @@ const Hero = () => {
               <FaCode className="text-white my-1.5 mx-1.5 text-xl" />
             </div>
             <p className="text-white text-sm">
-              Coding enthusiast (ReactJs, NextJs, Python)
+              Coding enthusiast (ReactJs, NodeJs, C#)
             </p>
           </div>
         </div>

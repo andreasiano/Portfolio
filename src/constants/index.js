@@ -1,7 +1,7 @@
 import img1 from '../assets/Finance Tracker.png'
 import img2 from '../assets/bailey.png'
-import img3 from '../assets/shopping_cart.png'
-import img4 from '../assets/CRIF.png'
+import img3 from '../assets/Movie app.png'
+import img4 from '../assets/Unity.png'
 import img5 from '../assets/Game Hub.png'
 import img6 from '../assets/ST.png'
 import { BsFillArrowRightCircleFill } from 'react-icons/bs'
@@ -41,23 +41,23 @@ export const imgData = [
          },
          {
            id: 3,
-           title: "CRIF Portal",
+           title: "Unity 2D Game",
            img: img4,
            description:
-             "CRIF is a global company specialized on microtransactions, I helped them to develop one of their digital products...",
-           button: "See Web Portal",
-           link: "https://crif.com/",
+             "This is a 2D game built with the Unity Game Engine using C# for game objects' behaviour",
+           button: "See Repo",
+           link: "https://github.com/andreasiano/2D-game",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
            id: 4,
-           title: "Redux Toolkit Project",
+           title: "Redux Movie App",
            img: img3,
            description:
-             "A Redux Toolkit shopping Cart with various functionalities ",
+             "Firebase Movie App built with React and Typescript provinding Movies and TvShows from TMDB API",
            button: "See Project",
            link:
-             "https://redux-shopping-cart-wine-five.vercel.app/",
+             "https://movieapp-36b1a.web.app/",
            icon: <BsFillArrowRightCircleFill />,
          },
          {
